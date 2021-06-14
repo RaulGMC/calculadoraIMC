@@ -1,0 +1,4 @@
+#Sat Jun 12 23:21:05 MST 2021
+base.0=E\:\\Docs\\GITCLONES\\Asignacion4_calculadora_IMC\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
